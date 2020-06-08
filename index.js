@@ -6,10 +6,10 @@
     $button.addClass('active').siblings('.active').removeClass('active')
     switch(speed){
       case 'slow' :
-        duration = 100;
+        duration = 80;
         break;
       case 'normal' :
-        duration = 50;
+        duration = 40;
         break;
       case 'fast' :
         duration = 10;
