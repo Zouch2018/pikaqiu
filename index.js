@@ -57,7 +57,7 @@
     position: absolute;
     left:50%;
     top: 28px;
-    transform: translate(-50%);
+    transform: translateX(-50%);
 }
 /*
 *再画一双眼睛
